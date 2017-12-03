@@ -1,3 +1,5 @@
+#found partially on reddit solutions after attempting to do the same thing in Java and failing miserably
+
 import re
 inp = [i.strip() for i in open('input.txt', 'r').readlines()]
 
